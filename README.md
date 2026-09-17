@@ -6,7 +6,7 @@ No installation, no dependencies, no build step. It's one HTML file.
 
 ## Try it
 
-Open `index.html` or 'guitar-scales.html' in any modern browser, or visit the live version if GitHub Pages is enabled for this repo.
+Open `index.html` or 'guitar-scales.html' in any modern browser, or visit the live version on GitHub Pages at https://dnbaumann.github.io/guitar-improv-trainer/
 
 ## Features
 
