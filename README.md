@@ -1,4 +1,4 @@
-# Scales on the Neck
+# Guitar Improvisation Trainer
 
 An interactive guitar scale and chord explorer that runs entirely in your browser. Pick a root and any of 80+ scales and modes, see every note on the fretboard, hear it played, and get chord progressions and fingerings that fit.
 
